@@ -1,0 +1,6 @@
+{
+  "name": "Roblox RP External Chat Overlay",
+  "description": "Ready-to-run external frameless desktop chat overlay and real-time room server for Roblox roleplay sessions, featuring /me, /do, /try commands, transparent HUD mode, and interactive simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

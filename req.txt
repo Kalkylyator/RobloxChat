@@ -1,0 +1,14 @@
+# Roblox Roleplay Chat Overlay - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Server requirements
+python-socketio>=5.11.0
+aiohttp>=3.9.0
+
+# Desktop GUI Client requirements
+PyQt5>=5.15.10
+websocket-client>=1.7.0
+requests>=2.31.0
+
+# Optional Global Hotkey capture across any window (even during gameplay)
+keyboard>=0.13.5
